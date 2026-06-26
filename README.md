@@ -1,4 +1,4 @@
-# Fetal Health Classification using Machine Learning
+# Fetal Health Classification from Cardiotocography Data
 
 A machine learning project for classifying fetal health conditions from Cardiotocography (CTG) data using multiple classification algorithms.
 
