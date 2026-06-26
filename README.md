@@ -64,7 +64,7 @@ The dataset contains **2,126 CTG records** with **21 numerical features** and on
 
 ```
 .
-├── fetal_health.py
+├── fetal_health_classification.py
 ├── fetal_health.csv
 ├── model_summary.csv
 ├── figures/
