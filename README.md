@@ -111,7 +111,7 @@ Place the dataset (`fetal_health.csv`) in the project directory.
 Run:
 
 ```bash
-python fetal_health.py
+python fetal_health_classification.py
 ```
 
 The program will:
