@@ -87,7 +87,7 @@ The dataset contains **2,126 CTG records** with **21 numerical features** and on
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fetal-health-classification.git
+git clone https://github.com/Surianandhan/fetal-health-classification.git
 ```
 
 Move into the project folder:
