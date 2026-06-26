@@ -66,16 +66,17 @@ The dataset contains **2,126 CTG records** with **21 numerical features** and on
 .
 ├── fetal_health.py
 ├── fetal_health.csv
-├── fig1_class_distribution.png
-├── fig2_correlation_heatmap.png
-├── fig3_feature_distributions.png
-├── fig4_confusion_matrices.png
-├── fig5_accuracy_comparison.png
-├── fig6_f1_comparison.png
-├── fig7_mlp_loss_curve.png
-├── fig8_feature_importance.png
-├── fig9_cross_validation.png
 ├── model_summary.csv
+├── figures/
+│   ├── fig1_class_distribution.png
+│   ├── fig2_correlation_heatmap.png
+│   ├── fig3_feature_distributions.png
+│   ├── fig4_confusion_matrices.png
+│   ├── fig5_accuracy_comparison.png
+│   ├── fig6_f1_comparison.png
+│   ├── fig7_mlp_loss_curve.png
+│   ├── fig8_feature_importance.png
+│   └── fig9_cross_validation.png
 └── README.md
 ```
 
